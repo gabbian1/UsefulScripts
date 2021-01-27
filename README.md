@@ -1,2 +1,2 @@
 # UsefulScripts
-Useful JS Scripts
+Useful scripts
